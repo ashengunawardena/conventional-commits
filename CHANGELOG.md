@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/Hashen110/conventional-commits/compare/v1.1.0...v1.1.1) (2022-05-05)
+
+
+### Bug Fixes
+
+* add new line ([df43b7c](https://github.com/Hashen110/conventional-commits/commit/df43b7c9f20242040354f7caa8dfa5258513dfb5))
+* **service:** add new lines ([4843f21](https://github.com/Hashen110/conventional-commits/commit/4843f21a0d1db6445b457db53d27edce336eca21))
+
 ## [1.1.0](https://github.com/Hashen110/conventional-commits/compare/v1.0.0...v1.1.0) (2022-05-05)
 
 
