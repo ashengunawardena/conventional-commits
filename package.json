@@ -1,0 +1,20 @@
+{
+  "name": "conventional-commits",
+  "version": "1.0.0",
+  "description": "conventional-commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hashen110/conventional-commits.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hashen110/conventional-commits/issues"
+  },
+  "homepage": "https://github.com/Hashen110/conventional-commits#readme"
+}
