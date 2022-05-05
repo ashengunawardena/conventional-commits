@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/Hashen110/conventional-commits/compare/v1.1.2...v2.0.0) (2022-05-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* `extends` key in config file is now used for extending other config files
+
+### Features
+
+* allow provided config object to extend other configs ([1d8d360](https://github.com/Hashen110/conventional-commits/commit/1d8d3607ca57d9f5302f6ec1cbe658485be5d0aa))
+
 ### [1.1.2](https://github.com/Hashen110/conventional-commits/compare/v1.1.1...v1.1.2) (2022-05-05)
 
 ### [1.1.1](https://github.com/Hashen110/conventional-commits/compare/v1.1.0...v1.1.1) (2022-05-05)
